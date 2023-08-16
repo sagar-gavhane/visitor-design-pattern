@@ -1,4 +1,4 @@
-package com.example;
+package com.sagar;
 
 public class Necessity implements Visitable {
     private double price;

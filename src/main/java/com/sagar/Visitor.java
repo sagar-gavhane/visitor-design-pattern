@@ -1,4 +1,4 @@
-package com.example;
+package com.sagar;
 
 public interface Visitor {
     public double visit(Liquor liquor);
